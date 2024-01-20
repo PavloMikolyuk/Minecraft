@@ -1,0 +1,51 @@
+.table {
+    background-color: darkorange;
+    border: 2px solid bisque;
+    color: black;
+}
+
+.center {
+    text-align: center;
+}
+
+.point {
+    border-left: 10px dotted blue;
+    background-color: white;
+    color: black;
+}
+
+.black {
+    background-color: white;
+    color: black;
+    font-size: 17px;
+}
+
+.border {
+    border-bottom: 1px solid white;
+    text-align: left;
+}
+
+nav a {
+    text-decoration: none;
+    padding: 10px;
+    margin: 20px;
+    border: 2px solid limegreen;
+    background-color: limegreen;
+    color: #090863;
+    font-family: sans-serif;
+    border-radius: 10px;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+nav {
+    text-align: center;
+}
+
+p {
+    font-size: 17px;
+}
